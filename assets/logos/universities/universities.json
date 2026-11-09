@@ -1,0 +1,324 @@
+[
+ {
+  "slug": "baha",
+  "name_ar": "جامعة الباحة",
+  "name_en": "Al-Baha University",
+  "official_site": "https://bu.edu.sa",
+  "source": "SVG رسمي من الموقع",
+  "color": "vector",
+  "files": [
+   "baha/baha-black.png",
+   "baha/baha-black.svg",
+   "baha/baha-color.png",
+   "baha/baha-color.svg",
+   "baha/baha-white.png",
+   "baha/baha-white.svg"
+  ]
+ },
+ {
+  "slug": "hail",
+  "name_ar": "جامعة حائل",
+  "name_en": "University of Ha'il",
+  "official_site": "https://www.uoh.edu.sa",
+  "source": "النسخة البيضاء SVG رسمية من الموقع؛ الملونة أُعيد تلوينها على نفس الهندسة بألوان شعار الموقع",
+  "color": "vector",
+  "files": [
+   "hail/hail-black.png",
+   "hail/hail-black.svg",
+   "hail/hail-color.png",
+   "hail/hail-color.svg",
+   "hail/hail-white.png",
+   "hail/hail-white.svg"
+  ]
+ },
+ {
+  "slug": "iau",
+  "name_ar": "جامعة الإمام عبدالرحمن بن فيصل",
+  "name_en": "Imam Abdulrahman Bin Faisal University",
+  "official_site": "https://www.iau.edu.sa",
+  "source": "SVG رسمي من الموقع",
+  "color": "vector",
+  "files": [
+   "iau/iau-black.png",
+   "iau/iau-black.svg",
+   "iau/iau-color.png",
+   "iau/iau-color.svg",
+   "iau/iau-white.png",
+   "iau/iau-white.svg"
+  ]
+ },
+ {
+  "slug": "imam",
+  "name_ar": "جامعة الإمام محمد بن سعود الإسلامية",
+  "name_en": "Imam Mohammad Ibn Saud Islamic University",
+  "official_site": "https://imamu.edu.sa",
+  "source": "SVG رسمي ملون وأبيض من الموقع",
+  "color": "vector",
+  "files": [
+   "imam/imam-black.png",
+   "imam/imam-black.svg",
+   "imam/imam-color.png",
+   "imam/imam-color.svg",
+   "imam/imam-white.png",
+   "imam/imam-white.svg"
+  ]
+ },
+ {
+  "slug": "jazan",
+  "name_ar": "جامعة جازان",
+  "name_en": "Jazan University",
+  "official_site": "https://www.jazanu.edu.sa",
+  "source": "الملونة PNG عالي الدقة من الموقع (فيه تدرج)؛ الأحادية SVG رسمية (webs.jazanu.edu.sa) + نسخة ذهبية",
+  "color": "color=png",
+  "files": [
+   "jazan/jazan-black.png",
+   "jazan/jazan-black.svg",
+   "jazan/jazan-color.png",
+   "jazan/jazan-gold.png",
+   "jazan/jazan-gold.svg",
+   "jazan/jazan-white.png",
+   "jazan/jazan-white.svg"
+  ]
+ },
+ {
+  "slug": "jeddah",
+  "name_ar": "جامعة جدة",
+  "name_en": "University of Jeddah",
+  "official_site": "https://www.uj.edu.sa",
+  "source": "SVG رسمي (عمودي وأفقي) + نسخة بيضاء خطية رسمية",
+  "color": "vector",
+  "files": [
+   "jeddah/jeddah-black.png",
+   "jeddah/jeddah-black.svg",
+   "jeddah/jeddah-color-horizontal.png",
+   "jeddah/jeddah-color-horizontal.svg",
+   "jeddah/jeddah-color.png",
+   "jeddah/jeddah-color.svg",
+   "jeddah/jeddah-white.png",
+   "jeddah/jeddah-white.svg"
+  ]
+ },
+ {
+  "slug": "kau",
+  "name_ar": "جامعة الملك عبدالعزيز",
+  "name_en": "King Abdulaziz University",
+  "official_site": "https://www.kau.edu.sa",
+  "source": "الملونة PNG 2500px من دليل الهوية الرسمي 2025 (فيها تدرجات)؛ الأحادية متتبعة منها",
+  "color": "color=png",
+  "files": [
+   "kau/kau-black.png",
+   "kau/kau-black.svg",
+   "kau/kau-color.png",
+   "kau/kau-white.png",
+   "kau/kau-white.svg"
+  ]
+ },
+ {
+  "slug": "kfu",
+  "name_ar": "جامعة الملك فيصل",
+  "name_en": "King Faisal University",
+  "official_site": "https://www.kfu.edu.sa",
+  "source": "من دليل الهوية الرسمي KFU_ID.pdf، متتبع إلى SVG",
+  "color": "vector",
+  "files": [
+   "kfu/kfu-black.png",
+   "kfu/kfu-black.svg",
+   "kfu/kfu-color.png",
+   "kfu/kfu-color.svg",
+   "kfu/kfu-white.png",
+   "kfu/kfu-white.svg"
+  ]
+ },
+ {
+  "slug": "kfupm",
+  "name_ar": "جامعة الملك فهد للبترول والمعادن",
+  "name_en": "KFUPM",
+  "official_site": "https://www.kfupm.edu.sa",
+  "source": "SVG رسمي (الهوية الجديدة)",
+  "color": "vector",
+  "files": [
+   "kfupm/kfupm-black.png",
+   "kfupm/kfupm-black.svg",
+   "kfupm/kfupm-color.png",
+   "kfupm/kfupm-color.svg",
+   "kfupm/kfupm-white.png",
+   "kfupm/kfupm-white.svg"
+  ]
+ },
+ {
+  "slug": "kku",
+  "name_ar": "جامعة الملك خالد",
+  "name_en": "King Khalid University",
+  "official_site": "https://www.kku.edu.sa",
+  "source": "SVG رسمي ملون وأبيض",
+  "color": "vector",
+  "files": [
+   "kku/kku-black.png",
+   "kku/kku-black.svg",
+   "kku/kku-color.png",
+   "kku/kku-color.svg",
+   "kku/kku-white.png",
+   "kku/kku-white.svg"
+  ]
+ },
+ {
+  "slug": "ksu",
+  "name_ar": "جامعة الملك سعود",
+  "name_en": "King Saud University",
+  "official_site": "https://ksu.edu.sa",
+  "source": "الملونة (الأزرق #008DC3) من الملف الرسمي الذي زوّدنا به الفريق، متتبعة إلى SVG؛ الأبيض والأسود من الشعار الأحادي في ksu.edu.sa",
+  "color": "vector",
+  "files": [
+   "ksu/ksu-black.png",
+   "ksu/ksu-black.svg",
+   "ksu/ksu-color.png",
+   "ksu/ksu-color.svg",
+   "ksu/ksu-white.png",
+   "ksu/ksu-white.svg"
+  ]
+ },
+ {
+  "slug": "najran",
+  "name_ar": "جامعة نجران",
+  "name_en": "Najran University",
+  "official_site": "https://portal.nu.edu.sa",
+  "source": "الأحادية من منصة الأندية متتبعة؛ الألوان مأخوذة من شعار الموقع",
+  "color": "vector",
+  "files": [
+   "najran/najran-black.png",
+   "najran/najran-black.svg",
+   "najran/najran-color.png",
+   "najran/najran-color.svg",
+   "najran/najran-white.png",
+   "najran/najran-white.svg"
+  ]
+ },
+ {
+  "slug": "nbu",
+  "name_ar": "جامعة الحدود الشمالية",
+  "name_en": "Northern Border University",
+  "official_site": "https://www.nbu.edu.sa",
+  "source": "SVG رسمي ملون وأبيض",
+  "color": "vector",
+  "files": [
+   "nbu/nbu-black.png",
+   "nbu/nbu-black.svg",
+   "nbu/nbu-color.png",
+   "nbu/nbu-color.svg",
+   "nbu/nbu-white.png",
+   "nbu/nbu-white.svg"
+  ]
+ },
+ {
+  "slug": "pnu",
+  "name_ar": "جامعة الأميرة نورة بنت عبدالرحمن",
+  "name_en": "Princess Nourah bint Abdulrahman University",
+  "official_site": "https://pnu.edu.sa",
+  "source": "SVG رسمي ملون وأسود",
+  "color": "vector",
+  "files": [
+   "pnu/pnu-black.png",
+   "pnu/pnu-black.svg",
+   "pnu/pnu-color.png",
+   "pnu/pnu-color.svg",
+   "pnu/pnu-white.png",
+   "pnu/pnu-white.svg"
+  ]
+ },
+ {
+  "slug": "psau",
+  "name_ar": "جامعة الأمير سطام بن عبدالعزيز",
+  "name_en": "Prince Sattam bin Abdulaziz University",
+  "official_site": "https://www.psau.edu.sa",
+  "source": "SVG رسمي",
+  "color": "vector",
+  "files": [
+   "psau/psau-black.png",
+   "psau/psau-black.svg",
+   "psau/psau-color.png",
+   "psau/psau-color.svg",
+   "psau/psau-white.png",
+   "psau/psau-white.svg"
+  ]
+ },
+ {
+  "slug": "qassim",
+  "name_ar": "جامعة القصيم",
+  "name_en": "Qassim University",
+  "official_site": "https://www.qu.edu.sa",
+  "source": "SVG رسمي ملون وأبيض",
+  "color": "vector",
+  "files": [
+   "qassim/qassim-black.png",
+   "qassim/qassim-black.svg",
+   "qassim/qassim-color.png",
+   "qassim/qassim-color.svg",
+   "qassim/qassim-white.png",
+   "qassim/qassim-white.svg"
+  ]
+ },
+ {
+  "slug": "taibah",
+  "name_ar": "جامعة طيبة",
+  "name_en": "Taibah University",
+  "official_site": "https://www.taibahu.edu.sa",
+  "source": "SVG رسمي ملون وأبيض (الهوية الجديدة)",
+  "color": "vector",
+  "files": [
+   "taibah/taibah-black.png",
+   "taibah/taibah-black.svg",
+   "taibah/taibah-color.png",
+   "taibah/taibah-color.svg",
+   "taibah/taibah-white.png",
+   "taibah/taibah-white.svg"
+  ]
+ },
+ {
+  "slug": "taif",
+  "name_ar": "جامعة الطائف",
+  "name_en": "Taif University",
+  "official_site": "https://www.tu.edu.sa",
+  "source": "PNG رسمي 2058px (الهوية الجديدة) متتبع إلى SVG",
+  "color": "vector",
+  "files": [
+   "taif/taif-black.png",
+   "taif/taif-black.svg",
+   "taif/taif-color.png",
+   "taif/taif-color.svg",
+   "taif/taif-white.png",
+   "taif/taif-white.svg"
+  ]
+ },
+ {
+  "slug": "upm",
+  "name_ar": "جامعة الأمير مقرن بن عبدالعزيز",
+  "name_en": "University of Prince Mugrin",
+  "official_site": "https://upm.edu.sa",
+  "source": "أعلى دقة في الموقع PNG صغيرة؛ أُعيد بناؤها SVG من النسخة البيضاء الرسمية بألوان الموقع",
+  "color": "vector",
+  "files": [
+   "upm/upm-black.png",
+   "upm/upm-black.svg",
+   "upm/upm-color.png",
+   "upm/upm-color.svg",
+   "upm/upm-white.png",
+   "upm/upm-white.svg"
+  ]
+ },
+ {
+  "slug": "uqu",
+  "name_ar": "جامعة أم القرى",
+  "name_en": "Umm Al-Qura University",
+  "official_site": "https://uqu.edu.sa",
+  "source": "من الدليل الإرشادي للهوية البصرية (drive.uqu.edu.sa) متتبع إلى SVG",
+  "color": "vector",
+  "files": [
+   "uqu/uqu-black.png",
+   "uqu/uqu-black.svg",
+   "uqu/uqu-color.png",
+   "uqu/uqu-color.svg",
+   "uqu/uqu-white.png",
+   "uqu/uqu-white.svg"
+  ]
+ }
+]

@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<title>Print — Event badges 6×12 cm (5 types)</title>
+<link rel="stylesheet" href="_base.css">
+<style>
+/* Each badge 600×1200 = 6×12 cm at 1px = 0.1 mm. Five types share one layout; only the colour strip and label change.
+   Export: render.py 2 -> crop each badge, or rebuild each card in the print tool with 3 mm bleed. */
+.post{width:2040px;height:2580px;background:#E9E5F5;display:flex;flex-wrap:wrap;align-content:flex-start;gap:60px;padding:60px;direction:rtl}
+.b{position:relative;width:600px;height:1200px;border-radius:36px;overflow:hidden;background:linear-gradient(180deg,#1F0F45 0%,#2E1468 50%,#4A20AE 100%);flex:none}
+.hole{position:absolute;left:0;right:0;margin:auto;top:46px;width:120px;height:26px;border-radius:13px;background:#E9E5F5}
+.club{position:absolute;left:0;right:0;margin:auto;top:130px;width:330px}
+.name{position:absolute;left:40px;right:40px;top:520px;text-align:center;font-size:58px;font-weight:700;line-height:1.3}
+.org{position:absolute;left:40px;right:40px;top:690px;text-align:center;font-size:30px;color:rgba(255,255,255,.8)}
+.strip{position:absolute;left:0;right:0;bottom:170px;height:150px;display:flex;align-items:center;justify-content:center;font-size:62px;font-weight:700;color:#1F0F45}
+.academy{position:absolute;left:0;right:0;margin:auto;bottom:60px;height:56px}
+.corner{position:absolute;left:-24px;top:300px;height:150px}
+</style>
+</head>
+<body>
+<div class="post">
+  <div class="b"><div class="hole"></div><img class="corner" src="../../assets/pixels/svg/club-mark-3color.svg" alt=""><img class="club" src="../../assets/logos/club/tuwaiq-club-white-no-tagline.svg" alt=""><div class="name">[الاسم الأول<br>واسم العائلة]</div><div class="org">[الجامعة]</div><div class="strip" style="background:var(--twq-purple);color:#fff">منظّـم</div><img class="academy" src="../../assets/logos/academy/tuwaiq-academy-horizontal-white.svg" alt=""></div>
+  <div class="b"><div class="hole"></div><img class="corner" src="../../assets/pixels/svg/club-mark-3color.svg" alt=""><img class="club" src="../../assets/logos/club/tuwaiq-club-white-no-tagline.svg" alt=""><div class="name">[الاسم الأول<br>واسم العائلة]</div><div class="org">[الجامعة]</div><div class="strip" style="background:var(--twq-teal)">مشـارك</div><img class="academy" src="../../assets/logos/academy/tuwaiq-academy-horizontal-white.svg" alt=""></div>
+  <div class="b"><div class="hole"></div><img class="corner" src="../../assets/pixels/svg/club-mark-3color.svg" alt=""><img class="club" src="../../assets/logos/club/tuwaiq-club-white-no-tagline.svg" alt=""><div class="name">[الاسم الأول<br>واسم العائلة]</div><div class="org">[الجهة]</div><div class="strip" style="background:#FFFFFF">زائـر</div><img class="academy" src="../../assets/logos/academy/tuwaiq-academy-horizontal-white.svg" alt=""></div>
+  <div class="b"><div class="hole"></div><img class="corner" src="../../assets/pixels/svg/club-mark-3color.svg" alt=""><img class="club" src="../../assets/logos/club/tuwaiq-club-white-no-tagline.svg" alt=""><div class="name">[الاسم الأول<br>واسم العائلة]</div><div class="org">[الجهة]</div><div class="strip" style="background:var(--twq-lilac)">محكّـم</div><img class="academy" src="../../assets/logos/academy/tuwaiq-academy-horizontal-white.svg" alt=""></div>
+  <div class="b"><div class="hole"></div><img class="corner" src="../../assets/pixels/svg/club-mark-3color.svg" alt=""><img class="club" src="../../assets/logos/club/tuwaiq-club-white-no-tagline.svg" alt=""><div class="name">[الاسم الأول<br>واسم العائلة]</div><div class="org">[الجهة]</div><div class="strip" style="background:var(--twq-orange)">متحـدّث</div><img class="academy" src="../../assets/logos/academy/tuwaiq-academy-horizontal-white.svg" alt=""></div>
+</div>
+</body>
+</html>

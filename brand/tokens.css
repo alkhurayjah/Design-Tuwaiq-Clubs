@@ -1,0 +1,51 @@
+/* Tuwaiq Clubs / Tuwaiq Academy — design tokens
+   Include from a template:  <link rel="stylesheet" href="../../brand/tokens.css">  */
+
+@font-face{font-family:"IBM Plex Sans Arabic";font-weight:300;font-display:swap;src:url(../assets/fonts/ibm-plex-sans-arabic-arabic-300-normal.woff2) format("woff2");unicode-range:U+0600-06FF,U+0750-077F,U+0870-088E,U+0890-0891,U+0898-08E1,U+08E3-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FE74,U+FE76-FEFC}
+@font-face{font-family:"IBM Plex Sans Arabic";font-weight:400;font-display:swap;src:url(../assets/fonts/ibm-plex-sans-arabic-arabic-400-normal.woff2) format("woff2");unicode-range:U+0600-06FF,U+0750-077F,U+0870-088E,U+0890-0891,U+0898-08E1,U+08E3-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FE74,U+FE76-FEFC}
+@font-face{font-family:"IBM Plex Sans Arabic";font-weight:500;font-display:swap;src:url(../assets/fonts/ibm-plex-sans-arabic-arabic-500-normal.woff2) format("woff2");unicode-range:U+0600-06FF,U+0750-077F,U+0870-088E,U+0890-0891,U+0898-08E1,U+08E3-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FE74,U+FE76-FEFC}
+@font-face{font-family:"IBM Plex Sans Arabic";font-weight:600;font-display:swap;src:url(../assets/fonts/ibm-plex-sans-arabic-arabic-600-normal.woff2) format("woff2");unicode-range:U+0600-06FF,U+0750-077F,U+0870-088E,U+0890-0891,U+0898-08E1,U+08E3-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FE74,U+FE76-FEFC}
+@font-face{font-family:"IBM Plex Sans Arabic";font-weight:700;font-display:swap;src:url(../assets/fonts/ibm-plex-sans-arabic-arabic-700-normal.woff2) format("woff2");unicode-range:U+0600-06FF,U+0750-077F,U+0870-088E,U+0890-0891,U+0898-08E1,U+08E3-08FF,U+200C-200E,U+2010-2011,U+204F,U+2E41,U+FB50-FDFF,U+FE70-FE74,U+FE76-FEFC}
+@font-face{font-family:"IBM Plex Sans Arabic";font-weight:300;font-display:swap;src:url(../assets/fonts/ibm-plex-sans-arabic-latin-300-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"IBM Plex Sans Arabic";font-weight:400;font-display:swap;src:url(../assets/fonts/ibm-plex-sans-arabic-latin-400-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"IBM Plex Sans Arabic";font-weight:500;font-display:swap;src:url(../assets/fonts/ibm-plex-sans-arabic-latin-500-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"IBM Plex Sans Arabic";font-weight:600;font-display:swap;src:url(../assets/fonts/ibm-plex-sans-arabic-latin-600-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:"IBM Plex Sans Arabic";font-weight:700;font-display:swap;src:url(../assets/fonts/ibm-plex-sans-arabic-latin-700-normal.woff2) format("woff2");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+
+:root{
+  /* primary */
+  --twq-purple:#4F29B7;      /* 75% of every design */
+  --twq-mark:#571CBD;        /* colour inside the official academy logo file — never recolour the logo */
+  --twq-black:#262626;
+  --twq-grey:#EDEDED;
+  --twq-white:#FFFFFF;
+  /* secondary (club) */
+  --twq-teal:#57E3D8;
+  --twq-lilac:#A380FF;
+  --twq-orange:#F4A664;
+  /* secondary (academy extended) */
+  --twq-blue:#4D96FF;
+  --twq-green:#80D883;
+  --twq-yellow:#FFDB5E;
+  --twq-pink:#FF8181;
+  /* purple tints (pixel generator palette) */
+  --twq-p1:#4F29B7; --twq-p2:#6438DD; --twq-p3:#754BEA; --twq-p4:#9C75FF; --twq-p5:#B798FF; --twq-p6:#CDB7FF; --twq-p7:#E3D8FF;
+  --twq-bg-light:#F5F1FF;
+  --twq-grid-line:#D5CAFF;
+  /* post-specific */
+  --post-accent-text:#A893FF;       /* lilac highlight text on dark */
+  --post-coral:#F08A7A;
+  --post-sand:#F4C38A;
+  --post-mint:#9AEDE6;              /* club weekly: university events date block */
+  --post-info-teal:#2FD5CB;         /* club workshop: location pill */
+  --post-info-purple:#8B6CF6;       /* club workshop: time pill */
+  --post-dark-navy:#0D0A2E;
+  --post-dark-purple:#1F0F45;
+  --post-mid-purple:#4A20AE;
+  --post-panel-dark:#1E1E1E;
+  /* radii */
+  --r-pixel:15%;   /* pixel cells */
+  --r-pill:999px;
+  --r-card:16px; --r-card-lg:24px; --r-post-card:32px;
+  --font:"IBM Plex Sans Arabic", system-ui, sans-serif;
+}

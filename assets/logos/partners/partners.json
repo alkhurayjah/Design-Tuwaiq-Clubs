@@ -1,0 +1,14 @@
+[
+ {"slug":"alibaba","name":"Alibaba Cloud","name_ar":"علي بابا كلاود","source":"alibabacloud.com (header logo SVG)","color":"#FF6A00"},
+ {"slug":"bizzdesign","name":"Bizzdesign","name_ar":"بيز ديزاين","source":"bizzdesign.com (header logo SVG)","color":"#1659FF"},
+ {"slug":"cisco","name":"Cisco","name_ar":"سيسكو","source":"Wikimedia Commons: Cisco_logo_blue_2016.svg (public domain)","color":"#049FD9"},
+ {"slug":"comptia","name":"CompTIA","name_ar":"كومبتيا","source":"Wikimedia Commons: Comptia-logo.svg","color":"#E4202E"},
+ {"slug":"dcl","name":"Drone Champions League","name_ar":"دوري أبطال الدرونز","source":"dronechampionsleague.com/wp-content/uploads/2025/02/DCL-Logo.svg","color":"#DDFE00","note":"الملون ليموني، للخلفيات الداكنة فقط"},
+ {"slug":"exabeam","name":"Exabeam (LogRhythm)","name_ar":"إكزابيم (لوغ ريذم)","source":"exabeam.com (header logo SVG). LogRhythm اندمجت مع Exabeam، والشعار الحالي Exabeam","color":"#009B00"},
+ {"slug":"garage","name":"The Garage","name_ar":"الكراج","source":"thegarage.sa/assets/images/logo/logo.png (مرسوم متجهيًا)","color":"#000000","note":"الشعار أحادي رسميًا، فالملون = الأسود"},
+ {"slug":"google","name":"Google","name_ar":"قوقل","source":"Wikimedia Commons: Google_2015_logo.svg (public domain)","color":"#4285F4"},
+ {"slug":"nvidia","name":"NVIDIA","name_ar":"إنفيديا","source":"Wikimedia Commons: NVIDIA_logo.svg","color":"#76B900"},
+ {"slug":"offsec","name":"OffSec","name_ar":"أوف سك","source":"offsec.com (header logo SVG)","color":"#000000","note":"offsec-color: نص أسود للخلفيات الفاتحة، offsec-color-ondark: الأصل بنص أبيض"},
+ {"slug":"replit","name":"Replit","name_ar":"ريبلت","source":"replit.com (header logo SVG)","color":"#F26207"},
+ {"slug":"saip","name":"Saudi Authority for Intellectual Property","name_ar":"الهيئة السعودية للملكية الفكرية","source":"saip.gov.sa/images/saip-logo-color.svg","color":"#017065"}
+]

@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<title>Club — Certificate (A4 landscape, 1754×1240)</title>
+<link rel="stylesheet" href="_base.css">
+<style>
+/* A4 landscape. render.py scale 2 -> 3508×2480 = A4 at 300dpi */
+.post{width:1754px;height:1240px;background:#fff;color:var(--twq-black)}
+.frame{position:absolute;inset:44px;border:2px solid var(--twq-grid-line);border-radius:28px}
+.band{position:absolute;right:0;top:0;bottom:0;width:22px;background:var(--twq-purple)}
+.corner{position:absolute;left:-40px;bottom:-60px;height:250px}
+.club{position:absolute;right:120px;top:96px;height:128px}
+.academy{position:absolute;left:120px;top:118px;height:66px}
+.uni{position:absolute;left:50%;top:104px;transform:translateX(-50%);height:96px}
+.kicker{position:absolute;left:0;right:0;top:290px;text-align:center;font-size:30px;font-weight:500;color:var(--twq-purple);letter-spacing:.02em}
+h1{position:absolute;left:0;right:0;top:340px;margin:0;text-align:center;font-size:96px;font-weight:700;color:var(--twq-purple)}
+.to{position:absolute;left:0;right:0;top:500px;text-align:center;font-size:32px;color:#555}
+.name{position:absolute;left:300px;right:300px;top:556px;text-align:center;font-size:72px;font-weight:700;padding-bottom:18px;border-bottom:3px solid var(--twq-teal)}
+.body{position:absolute;left:260px;right:260px;top:720px;margin:0;text-align:center;font-size:30px;line-height:1.8;color:#333}
+.body b{color:var(--twq-purple)}
+.meta{position:absolute;left:0;right:0;top:880px;display:flex;justify-content:center;gap:22px;font-size:24px}
+.meta .pill{height:50px;padding:0 28px}
+.meta .date{color:#D9894A} .meta .place{color:#1FB5AB}
+.meta .ico{width:22px;height:22px}
+.sign{position:absolute;bottom:120px;width:420px;text-align:center;font-size:24px;color:#444}
+.sign i{display:block;height:2px;background:#CFC6EE;margin-bottom:14px}
+.sign b{display:block;font-size:26px;color:var(--twq-black);margin-bottom:4px}
+.sign.r{right:200px} .sign.l{left:200px}
+.serial{position:absolute;left:0;right:0;bottom:70px;text-align:center;font-size:18px;color:#999;direction:ltr}
+</style>
+</head>
+<body>
+<div class="post">
+  <div class="frame"></div>
+  <div class="band"></div>
+  <img class="corner" src="../../assets/pixels/svg/club-mark-3color.svg" alt="">
+  <div class="px teal" style="right:96px;top:300px;width:16px;height:16px"></div>
+  <div class="px lilac" style="left:150px;top:520px;width:10px;height:10px"></div>
+  <div class="px orange" style="right:150px;bottom:180px;width:20px;height:20px"></div>
+
+  <img class="club" src="../../assets/logos/club/universities/ksu/tuwaiq-club-ksu-color.svg" alt="Tuwaiq Club | KSU">
+  <img class="uni" src="../../assets/logos/universities/ksu/ksu-color.svg" alt="[شعار الجامعة]">
+  <img class="academy" src="../../assets/logos/academy/tuwaiq-academy-horizontal-color.svg" alt="أكاديمية طويق">
+
+  <div class="kicker">نادي طويق في [جامعة ...]</div>
+  <h1>شهادة [حضور]</h1>
+  <div class="to">يُقدّم نادي طويق هذه الشهادة إلى</div>
+  <div class="name">[اسم المشارك الثلاثي]</div>
+  <p class="body">تقديرًا لـ[حضوره / مشاركته] في <b>[اسم الفعالية]</b>، ومدتها [0] ساعات،<br>متمنّين له دوام التوفيق.</p>
+
+  <div class="meta">
+    <span class="pill place"><i class="ico" style="--src:url(../../assets/icons/academy/currentColor/location.svg)"></i>[المكان]</span>
+    <span class="pill date"><i class="ico" style="--src:url(../../assets/icons/academy/currentColor/calendar.svg)"></i>[00 شهر 2026م]</span>
+  </div>
+
+  <div class="sign r"><i></i><b>[الاسم]</b>رئيس نادي طويق</div>
+  <div class="sign l"><i></i><b>[الاسم]</b>[المشرف من الجامعة]</div>
+  <div class="serial">No. [TC-0000-000]</div>
+</div>
+</body>
+</html>

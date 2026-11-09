@@ -1,0 +1,242 @@
+[
+ {
+  "slug": "baha",
+  "abbr": "BU",
+  "files": [
+   "baha/tuwaiq-club-baha-color.svg",
+   "baha/tuwaiq-club-baha-color.png",
+   "baha/tuwaiq-club-baha-white.svg",
+   "baha/tuwaiq-club-baha-white.png",
+   "baha/tuwaiq-club-baha-black.svg",
+   "baha/tuwaiq-club-baha-black.png"
+  ]
+ },
+ {
+  "slug": "hail",
+  "abbr": "UOH",
+  "files": [
+   "hail/tuwaiq-club-hail-color.svg",
+   "hail/tuwaiq-club-hail-color.png",
+   "hail/tuwaiq-club-hail-white.svg",
+   "hail/tuwaiq-club-hail-white.png",
+   "hail/tuwaiq-club-hail-black.svg",
+   "hail/tuwaiq-club-hail-black.png"
+  ]
+ },
+ {
+  "slug": "iau",
+  "abbr": "IAU",
+  "files": [
+   "iau/tuwaiq-club-iau-color.svg",
+   "iau/tuwaiq-club-iau-color.png",
+   "iau/tuwaiq-club-iau-white.svg",
+   "iau/tuwaiq-club-iau-white.png",
+   "iau/tuwaiq-club-iau-black.svg",
+   "iau/tuwaiq-club-iau-black.png"
+  ]
+ },
+ {
+  "slug": "imam",
+  "abbr": "IMSIU",
+  "files": [
+   "imam/tuwaiq-club-imam-color.svg",
+   "imam/tuwaiq-club-imam-color.png",
+   "imam/tuwaiq-club-imam-white.svg",
+   "imam/tuwaiq-club-imam-white.png",
+   "imam/tuwaiq-club-imam-black.svg",
+   "imam/tuwaiq-club-imam-black.png"
+  ]
+ },
+ {
+  "slug": "jazan",
+  "abbr": "JU",
+  "files": [
+   "jazan/tuwaiq-club-jazan-color.svg",
+   "jazan/tuwaiq-club-jazan-color.png",
+   "jazan/tuwaiq-club-jazan-white.svg",
+   "jazan/tuwaiq-club-jazan-white.png",
+   "jazan/tuwaiq-club-jazan-black.svg",
+   "jazan/tuwaiq-club-jazan-black.png"
+  ]
+ },
+ {
+  "slug": "jeddah",
+  "abbr": "UJ",
+  "files": [
+   "jeddah/tuwaiq-club-jeddah-color.svg",
+   "jeddah/tuwaiq-club-jeddah-color.png",
+   "jeddah/tuwaiq-club-jeddah-white.svg",
+   "jeddah/tuwaiq-club-jeddah-white.png",
+   "jeddah/tuwaiq-club-jeddah-black.svg",
+   "jeddah/tuwaiq-club-jeddah-black.png"
+  ]
+ },
+ {
+  "slug": "kau",
+  "abbr": "KAU",
+  "files": [
+   "kau/tuwaiq-club-kau-color.svg",
+   "kau/tuwaiq-club-kau-color.png",
+   "kau/tuwaiq-club-kau-white.svg",
+   "kau/tuwaiq-club-kau-white.png",
+   "kau/tuwaiq-club-kau-black.svg",
+   "kau/tuwaiq-club-kau-black.png"
+  ]
+ },
+ {
+  "slug": "kfu",
+  "abbr": "KFU",
+  "files": [
+   "kfu/tuwaiq-club-kfu-color.svg",
+   "kfu/tuwaiq-club-kfu-color.png",
+   "kfu/tuwaiq-club-kfu-white.svg",
+   "kfu/tuwaiq-club-kfu-white.png",
+   "kfu/tuwaiq-club-kfu-black.svg",
+   "kfu/tuwaiq-club-kfu-black.png"
+  ]
+ },
+ {
+  "slug": "kfupm",
+  "abbr": "KFUPM",
+  "files": [
+   "kfupm/tuwaiq-club-kfupm-color.svg",
+   "kfupm/tuwaiq-club-kfupm-color.png",
+   "kfupm/tuwaiq-club-kfupm-white.svg",
+   "kfupm/tuwaiq-club-kfupm-white.png",
+   "kfupm/tuwaiq-club-kfupm-black.svg",
+   "kfupm/tuwaiq-club-kfupm-black.png"
+  ]
+ },
+ {
+  "slug": "kku",
+  "abbr": "KKU",
+  "files": [
+   "kku/tuwaiq-club-kku-color.svg",
+   "kku/tuwaiq-club-kku-color.png",
+   "kku/tuwaiq-club-kku-white.svg",
+   "kku/tuwaiq-club-kku-white.png",
+   "kku/tuwaiq-club-kku-black.svg",
+   "kku/tuwaiq-club-kku-black.png"
+  ]
+ },
+ {
+  "slug": "ksu",
+  "abbr": "KSU",
+  "files": [
+   "ksu/tuwaiq-club-ksu-color.svg",
+   "ksu/tuwaiq-club-ksu-color.png",
+   "ksu/tuwaiq-club-ksu-white.svg",
+   "ksu/tuwaiq-club-ksu-white.png",
+   "ksu/tuwaiq-club-ksu-black.svg",
+   "ksu/tuwaiq-club-ksu-black.png"
+  ]
+ },
+ {
+  "slug": "najran",
+  "abbr": "NU",
+  "files": [
+   "najran/tuwaiq-club-najran-color.svg",
+   "najran/tuwaiq-club-najran-color.png",
+   "najran/tuwaiq-club-najran-white.svg",
+   "najran/tuwaiq-club-najran-white.png",
+   "najran/tuwaiq-club-najran-black.svg",
+   "najran/tuwaiq-club-najran-black.png"
+  ]
+ },
+ {
+  "slug": "nbu",
+  "abbr": "NBU",
+  "files": [
+   "nbu/tuwaiq-club-nbu-color.svg",
+   "nbu/tuwaiq-club-nbu-color.png",
+   "nbu/tuwaiq-club-nbu-white.svg",
+   "nbu/tuwaiq-club-nbu-white.png",
+   "nbu/tuwaiq-club-nbu-black.svg",
+   "nbu/tuwaiq-club-nbu-black.png"
+  ]
+ },
+ {
+  "slug": "pnu",
+  "abbr": "PNU",
+  "files": [
+   "pnu/tuwaiq-club-pnu-color.svg",
+   "pnu/tuwaiq-club-pnu-color.png",
+   "pnu/tuwaiq-club-pnu-white.svg",
+   "pnu/tuwaiq-club-pnu-white.png",
+   "pnu/tuwaiq-club-pnu-black.svg",
+   "pnu/tuwaiq-club-pnu-black.png"
+  ]
+ },
+ {
+  "slug": "psau",
+  "abbr": "PSAU",
+  "files": [
+   "psau/tuwaiq-club-psau-color.svg",
+   "psau/tuwaiq-club-psau-color.png",
+   "psau/tuwaiq-club-psau-white.svg",
+   "psau/tuwaiq-club-psau-white.png",
+   "psau/tuwaiq-club-psau-black.svg",
+   "psau/tuwaiq-club-psau-black.png"
+  ]
+ },
+ {
+  "slug": "qassim",
+  "abbr": "QU",
+  "files": [
+   "qassim/tuwaiq-club-qassim-color.svg",
+   "qassim/tuwaiq-club-qassim-color.png",
+   "qassim/tuwaiq-club-qassim-white.svg",
+   "qassim/tuwaiq-club-qassim-white.png",
+   "qassim/tuwaiq-club-qassim-black.svg",
+   "qassim/tuwaiq-club-qassim-black.png"
+  ]
+ },
+ {
+  "slug": "taibah",
+  "abbr": "TaibahU",
+  "files": [
+   "taibah/tuwaiq-club-taibah-color.svg",
+   "taibah/tuwaiq-club-taibah-color.png",
+   "taibah/tuwaiq-club-taibah-white.svg",
+   "taibah/tuwaiq-club-taibah-white.png",
+   "taibah/tuwaiq-club-taibah-black.svg",
+   "taibah/tuwaiq-club-taibah-black.png"
+  ]
+ },
+ {
+  "slug": "taif",
+  "abbr": "TU",
+  "files": [
+   "taif/tuwaiq-club-taif-color.svg",
+   "taif/tuwaiq-club-taif-color.png",
+   "taif/tuwaiq-club-taif-white.svg",
+   "taif/tuwaiq-club-taif-white.png",
+   "taif/tuwaiq-club-taif-black.svg",
+   "taif/tuwaiq-club-taif-black.png"
+  ]
+ },
+ {
+  "slug": "upm",
+  "abbr": "UPM",
+  "files": [
+   "upm/tuwaiq-club-upm-color.svg",
+   "upm/tuwaiq-club-upm-color.png",
+   "upm/tuwaiq-club-upm-white.svg",
+   "upm/tuwaiq-club-upm-white.png",
+   "upm/tuwaiq-club-upm-black.svg",
+   "upm/tuwaiq-club-upm-black.png"
+  ]
+ },
+ {
+  "slug": "uqu",
+  "abbr": "UQU",
+  "files": [
+   "uqu/tuwaiq-club-uqu-color.svg",
+   "uqu/tuwaiq-club-uqu-color.png",
+   "uqu/tuwaiq-club-uqu-white.svg",
+   "uqu/tuwaiq-club-uqu-white.png",
+   "uqu/tuwaiq-club-uqu-black.svg",
+   "uqu/tuwaiq-club-uqu-black.png"
+  ]
+ }
+]

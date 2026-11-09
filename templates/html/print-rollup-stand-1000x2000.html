@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<title>Print — Welcome roll-up stand 100×200 cm (1000×2000)</title>
+<link rel="stylesheet" href="_base.css">
+<style>
+/* 1 px = 1 mm. For print export render at a high scale (render.py 4 -> 4000×8000) or rebuild in the print tool at 100×200 cm + 3 mm bleed.
+   Keep the bottom 150 mm clear: it goes inside the stand base. */
+.post{width:1000px;height:2000px;background:linear-gradient(180deg,#1F0F45 0%,#2E1468 40%,#4A20AE 100%)}
+.club{position:absolute;left:0;right:0;margin:auto;top:150px;width:560px}
+.welcome{position:absolute;left:0;right:0;top:620px;text-align:center;font-size:120px;font-weight:700;line-height:1.2}
+.welcome span{display:block;font-size:64px;font-weight:500;color:var(--post-accent-text)}
+.uni-slot{position:absolute;left:150px;right:150px;top:980px;height:300px;border-radius:40px;background:rgba(255,255,255,.08);border:2px dashed rgba(255,255,255,.35);display:flex;align-items:center;justify-content:center}
+.uni-slot img{max-height:200px;max-width:560px}
+.tag{position:absolute;left:0;right:0;top:1360px;text-align:center;font-size:40px;line-height:1.6;color:rgba(255,255,255,.9)}
+.academy{position:absolute;left:0;right:0;margin:auto;top:1570px;height:84px}
+.handle{position:absolute;left:0;right:0;top:1690px;justify-content:center;font-size:30px}
+.corner{position:absolute;right:-50px;bottom:150px;height:300px;transform:scaleX(-1)}
+.safe{position:absolute;left:0;right:0;bottom:0;height:150px;background:rgba(0,0,0,.18)}
+</style>
+</head>
+<body>
+<div class="post">
+  <img class="corner" src="../../assets/pixels/svg/club-mark-3color.svg" alt="">
+  <div class="px teal" style="left:90px;top:520px;width:30px;height:30px"></div>
+  <div class="px lilac" style="right:80px;top:900px;width:18px;height:18px"></div>
+  <div class="px orange" style="left:60px;top:1450px;width:34px;height:34px"></div>
+
+  <img class="club" src="../../assets/logos/club/universities/ksu/tuwaiq-club-ksu-white.svg" alt="Tuwaiq Club | KSU">
+  <div class="welcome">أهـلًا بكم<span>في نادي طويق</span></div>
+  <div class="uni-slot"><img src="../../assets/logos/universities/ksu/ksu-white.svg" alt="[شعار الجامعة]"></div>
+  <div class="tag">مبادرة تقنية لطلاب الجامعات<br>بدعم من أكاديمية طويق</div>
+  <img class="academy" src="../../assets/logos/academy/tuwaiq-academy-horizontal-white.svg" alt="أكاديمية طويق">
+  <div class="handle" dir="ltr"><span class="box"><i class="ico" style="--src:url(../../assets/icons/social/x.svg)"></i></span><span class="box"><i class="ico" style="--src:url(../../assets/icons/social/linkedin.svg)"></i></span>@TuwaiqClubs</div>
+  <div class="safe"></div>
+</div>
+</body>
+</html>

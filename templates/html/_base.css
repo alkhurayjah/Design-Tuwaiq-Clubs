@@ -1,0 +1,37 @@
+/* Shared pieces for every Tuwaiq template. Each template sets its own canvas size on .post */
+@import url("../../brand/tokens.css");
+
+*{box-sizing:border-box}
+html,body{margin:0;background:#111}
+body{font-family:var(--font);-webkit-font-smoothing:antialiased}
+.post{position:relative;overflow:hidden;direction:rtl;color:#fff;font-family:var(--font)}
+
+/* recolourable icon: <i class="ico" style="--src:url(...)"></i> takes currentColor */
+.ico{display:inline-block;width:1em;height:1em;background:currentColor;
+  -webkit-mask:var(--src) center/contain no-repeat;mask:var(--src) center/contain no-repeat;flex:none}
+
+/* pixel square (generator rule: radius = 15% of side) */
+.px{position:absolute;border-radius:15%}
+.px.teal{background:var(--twq-teal)} .px.lilac{background:#8B6CF6} .px.orange{background:var(--twq-orange)}
+.px.blur{filter:blur(10px);opacity:.75}
+
+/* outline pill */
+.pill{display:inline-flex;align-items:center;gap:14px;border:2px solid currentColor;border-radius:999px;white-space:nowrap}
+
+/* kashida: just type the tatweel character "ـ" inside words, e.g. فعاليــات */
+
+/* footer bits */
+.handle{display:flex;align-items:center;gap:8px;color:rgba(255,255,255,.85)}
+.handle .box{width:1.05em;height:1.05em;border:1.5px solid currentColor;border-radius:3px;display:inline-flex;align-items:center;justify-content:center}
+.handle .box .ico{width:.7em;height:.7em}
+.logo-pair{display:flex;align-items:center;gap:22px}
+.logo-pair .sep{width:1.5px;align-self:stretch;background:rgba(255,255,255,.55)}
+
+/* Images inside presentations/slides: ALWAYS rounded corners, never sharp.
+   <img class="img-round" src="...">                       rounded only
+   <figure class="img-backdrop" style="--bd:var(--twq-p4)"><img src="..."></figure>   rounded + rounded square behind */
+.img-round{display:block;object-fit:cover;border-radius:var(--img-r,24px)}
+.img-backdrop{position:relative;display:inline-block;margin:0}
+.img-backdrop::before{content:"";position:absolute;inset:0;border-radius:var(--img-r,24px);background:var(--bd,#9C75FF);
+  transform:translate(calc(var(--bd-off,18px) * -1),var(--bd-off,18px))}
+.img-backdrop img{position:relative;display:block;object-fit:cover;border-radius:var(--img-r,24px)}
