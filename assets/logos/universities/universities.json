@@ -258,6 +258,19 @@
   ]
  },
  {
+  "slug": "tabuk",
+  "name_ar": "جامعة تبوك",
+  "name_en": "University of Tabuk",
+  "official_site": "https://www.ut.edu.sa",
+  "source": "PNG رسمي زوّدنا به الفريق؛ الأبيض والأسود مستخرجان من نفس الملف (بدون SVG حاليًا)",
+  "color": "raster",
+  "files": [
+   "tabuk/tabuk-black.png",
+   "tabuk/tabuk-color.png",
+   "tabuk/tabuk-white.png"
+  ]
+ },
+ {
   "slug": "taibah",
   "name_ar": "جامعة طيبة",
   "name_en": "Taibah University",

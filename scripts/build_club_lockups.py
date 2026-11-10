@@ -100,7 +100,7 @@ ABBR = {
     'baha': 'BU', 'hail': 'UOH', 'iau': 'IAU', 'imam': 'IMSIU', 'jazan': 'JU', 'jeddah': 'UJ',
     'kau': 'KAU', 'kfu': 'KFU', 'kfupm': 'KFUPM', 'kku': 'KKU', 'ksu': 'KSU', 'najran': 'NU',
     'nbu': 'NBU', 'pnu': 'PNU', 'psau': 'PSAU', 'qassim': 'QU', 'taibah': 'TaibahU', 'taif': 'TU',
-    'upm': 'UPM', 'uqu': 'UQU',
+    'upm': 'UPM', 'uqu': 'UQU', 'tabuk': 'UT',
 }
 if __name__ == '__main__':
     only = sys.argv[1:]

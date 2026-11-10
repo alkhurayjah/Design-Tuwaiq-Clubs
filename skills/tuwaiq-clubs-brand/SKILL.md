@@ -78,6 +78,14 @@ description: Master skill for any Tuwaiq Clubs / Tuwaiq Academy design work (pos
 - **HTML:** `<img class="img-round">`، أو `<figure class="img-backdrop" style="--bd:#9C75FF"><img …></figure>`. الكلاسان معرّفان في `templates/html/_base.css`.
 - **أي أداة أخرى** (Google Slides، Keynote، Canva): نفس المواصفات. اقصص الصورة بشكل مستطيل دائري الزوايا، وضع خلفها المستطيل الملوّن بإزاحة.
 
+## توليد صورة خلفية بالذكاء الاصطناعي
+
+لغلاف أو خلفية بلا صور حقيقية، اتبع `docs/image-generation-canva.md`:
+- **البرومت:** إنجليزي مفصّل بألوان الهوية، وفيه "No text, no letters, no logos, no people".
+- **المقاس:** حسب التصميم (`PORTRAIT_9_16` للتقارير الطولية).
+- **الدقة:** نزّل الصورة بدقتها الكاملة من Canva، لأن الموصل يعطي معاينة صغيرة فقط.
+- **فوق الصورة:** العنوان والشعارات تُضاف في التصميم، لا داخل الصورة.
+
 ## قواعد لا تُكسر
 
 - **الخط:** IBM Plex Sans Arabic فقط.
@@ -94,8 +102,8 @@ description: Master skill for any Tuwaiq Clubs / Tuwaiq Academy design work (pos
 - **الصور:**
   - صور جماعية عامة، ولا صور فردية واضحة بلا موافقة.
   - **الصور باسم الجامعة:** `assets/photos/campus/<slug>.jpg` (نفس اسم مجلد شعارها).
-  - **صور منخفضة الدقة:** iau، jazan. استخدمها في المربعات الصغيرة فقط.
+  - **صور منخفضة الدقة:** iau، jazan، tabuk. استخدمها في المربعات الصغيرة أو بتأثير لوني فوقها.
   - **صور Wikimedia (kfupm، kau، taif):** اذكر المصوّر والرخصة عند النشر، والتفاصيل في `assets/photos/campus/SOURCES.md`.
   - **baha:** فيها علامة مائية SPA، قصّها.
 - **شعار النادي حسب الجامعة:** إذا الطلب لجامعة محددة ("بشعارات الإمام"، "لنادي جامعة الملك سعود")، استخدم شعار النادي الخاص بها `tuwaiq-club-<slug>-*` + شعار الجامعة. الشعار العام بدون اختصار للتصاميم العامة فقط.
-- **شعارات الجامعات:** 20 جامعة في `assets/logos/universities/<slug>/`، ولكل جامعة نسخة ملونة وبيضاء وسوداء. على البنفسجي أو الداكن استخدم `-white`، وعلى الفاتح `-color`. القائمة والمصادر في `universities.json`.
+- **شعارات الجامعات:** 21 جامعة في `assets/logos/universities/<slug>/`، ولكل جامعة نسخة ملونة وبيضاء وسوداء. على البنفسجي أو الداكن استخدم `-white`، وعلى الفاتح `-color`. القائمة والمصادر في `universities.json`.

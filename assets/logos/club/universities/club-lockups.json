@@ -238,5 +238,17 @@
    "uqu/tuwaiq-club-uqu-black.svg",
    "uqu/tuwaiq-club-uqu-black.png"
   ]
+ },
+ {
+  "slug": "tabuk",
+  "abbr": "UT",
+  "files": [
+   "tabuk/tuwaiq-club-tabuk-color.svg",
+   "tabuk/tuwaiq-club-tabuk-color.png",
+   "tabuk/tuwaiq-club-tabuk-white.svg",
+   "tabuk/tuwaiq-club-tabuk-white.png",
+   "tabuk/tuwaiq-club-tabuk-black.svg",
+   "tabuk/tuwaiq-club-tabuk-black.png"
+  ]
  }
 ]
